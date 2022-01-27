@@ -146,6 +146,15 @@ html, body{
     color: white;
 }
 
+.counter {
+    border-radius: 0.5rem;   
+    margin-left: 0.4rem;
+}
+
+.justify {
+    vertical-align: middle;
+    background-color: transparent;
+ }
 
 /* section1 */
 
