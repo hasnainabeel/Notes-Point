@@ -68,7 +68,8 @@ html, body{
 
 .nav a:hover{
     color: #053858;
-    font-weight: normal;
+    text-shadow: 2px 1px 4px #2980b9;
+    /* font-weight: normal; */
 }
 
 .main-nav{
@@ -196,9 +197,14 @@ html, body{
 
 
 
-.content-main a:hover, .subjects a:hover{
-    font-weight: 500;
+.content-main a:hover{
+    /* font-weight: 500; */
     color: #ffffff;
+    text-shadow: 3px 1px 4px black;
+}
+
+.subjects a:hover {
+    text-shadow: 3px 1px 4px black;
 }
 
 
