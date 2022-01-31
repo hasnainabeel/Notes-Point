@@ -150,6 +150,8 @@ html, body{
 .counter {
     border-radius: 0.5rem;   
     margin-left: 0.4rem;
+    height: 3rem;
+    width: auto;
 }
 
 .justify {
